@@ -1,0 +1,15 @@
+D:\priya\bin\Debug\net7.0\priya.exe
+D:\priya\bin\Debug\net7.0\priya.deps.json
+D:\priya\bin\Debug\net7.0\priya.runtimeconfig.json
+D:\priya\bin\Debug\net7.0\priya.dll
+D:\priya\bin\Debug\net7.0\priya.pdb
+D:\priya\obj\Debug\net7.0\priya.csproj.AssemblyReference.cache
+D:\priya\obj\Debug\net7.0\priya.GeneratedMSBuildEditorConfig.editorconfig
+D:\priya\obj\Debug\net7.0\priya.AssemblyInfoInputs.cache
+D:\priya\obj\Debug\net7.0\priya.AssemblyInfo.cs
+D:\priya\obj\Debug\net7.0\priya.csproj.CoreCompileInputs.cache
+D:\priya\obj\Debug\net7.0\priya.dll
+D:\priya\obj\Debug\net7.0\refint\priya.dll
+D:\priya\obj\Debug\net7.0\priya.pdb
+D:\priya\obj\Debug\net7.0\priya.genruntimeconfig.cache
+D:\priya\obj\Debug\net7.0\ref\priya.dll
